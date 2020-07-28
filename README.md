@@ -1,4 +1,4 @@
 # Kattis-Python
 Easy exercises from Kattis
 
-Collection of exercises from Kattis solved in python.
+Some of the exercises from Kattis solved in python.
